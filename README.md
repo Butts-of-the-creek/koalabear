@@ -297,4 +297,4 @@ Founder of KoalaBear
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is currently not licensed and unauthorized usage will lead to us taking legal action against you
